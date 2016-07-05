@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/deanrather/git-api/issues"
   },
-  "homepage": "https://github.com/deanrather/git-api#readme"
+  "homepage": "https://github.com/deanrather/git-api#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "gitkit": "^0.1.0"
+  }
 }

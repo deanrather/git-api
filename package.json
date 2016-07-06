@@ -19,5 +19,8 @@
   "dependencies": {
     "express": "^4.14.0",
     "gitkit": "^0.1.0"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.1"
   }
 }
